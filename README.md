@@ -80,7 +80,13 @@ Ferramenta (superclasse) → base para todos os itens utilizáveis.
 
 Lanterna, ChaveManutencao, CartaoAcesso, FusivelReserva
 
-Objeto (superclasse) → base para todos os objetos interativos.
+## 🎯 Dicas de jogabilidade
+- Explore cada sala com atenção.
+- Use as ferramentas nos objetos certos para liberar novas áreas.
+- Leia as mensagens com cuidado — elas contêm pistas importantes.
+- Existem diferentes finais possíveis, dependendo de suas ações.
+
+
 
 PainelEnergia, ArmarioTrancado, CaixaDeFusiveis, TerminalServidor, PainelSensivel, DossieConfidencial
 
